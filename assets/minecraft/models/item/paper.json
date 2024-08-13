@@ -1,0 +1,18 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/bosses/bong"},
+		{"predicate": {"custom_model_data":2}, "model": "item/bosses/weed"},
+		{"predicate": {"custom_model_data":3}, "model": "item/bosses/coce"},
+		{"predicate": {"custom_model_data":4}, "model": "item/bosses/gasoline"},
+		{"predicate": {"custom_model_data":5}, "model": "item/bosses/coceleaves"},
+		{"predicate": {"custom_model_data":6}, "model": "item/bosses/smoke"},
+		{"predicate": {"custom_model_data":7}, "model": "item/bosses/soul"},
+		{"predicate": {"custom_model_data":8}, "model": "item/bosses/powder"},
+		{"predicate": {"custom_model_data":9}, "model": "item/bosses/wardenheart"},
+		{"predicate": {"custom_model_data":10}, "model":"item/bosses/moltenheart"}
+	]
+}
