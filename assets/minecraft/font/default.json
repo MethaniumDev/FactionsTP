@@ -1,0 +1,7 @@
+{"providers":[
+	{"file":"methanium:font/nsp.png","chars":["\uE18F"],"height":-175,"ascent":-2000,"type":"bitmap"},
+	{"file":"methanium:font/nsp.png","chars":["\uE190"],"height":-50,"ascent":-2000,"type":"bitmap"},
+	{"file":"methanium:font/skilltreegui.png","chars":["\uE191"],"height":256,"ascent":47,"type":"bitmap"},
+	{"file":"methanium:font/backpackgui.png","chars":["\uE192"],"height":256,"ascent":47,"type":"bitmap"},
+	{"file":"methanium:font/backpackguimax.png","chars":["\uE193"],"height":256,"ascent":47,"type":"bitmap"}
+]}

@@ -1,0 +1,45 @@
+{
+	"textures": {
+		"layer0": "item/air"
+	},
+	"elements": [
+		{
+			"from": [-1, -1, 7.5],
+			"to": [17, 17, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#layer0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#layer0"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#layer0"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#layer0"}
+			}
+		}
+	],
+	"guilight": "front",
+	"display": {
+		"thirdpersonrighthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdpersonlefthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstpersonrighthand": {
+			"translation": [7, -7, 0]
+		},
+		"firstpersonlefthand": {
+			"translation": [7, -7, 0]
+		},
+		"ground": {
+			"translation": [0, -10, 0]
+		},
+		"head": {
+			"translation": [0, -9, 6],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 0, 1],
+			"scale": [1.36, 1.36, 2.23]
+		}
+	}
+}
