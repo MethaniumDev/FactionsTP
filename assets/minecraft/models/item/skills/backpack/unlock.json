@@ -14,9 +14,9 @@
 				"west": {"uv": [0, 0, 1, 16], "texture": "#layer0"},
 				"up": {"uv": [0, 0, 16, 1], "texture": "#layer0"},
 				"down": {"uv": [0, 0, 16, 1], "texture": "#layer0"}
-			},
-		"gui_light": "front",
-		"display": {}
-		}  
-    ]
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {}
 }
