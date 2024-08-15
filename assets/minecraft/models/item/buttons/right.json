@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"layer0": "item/buttonright"
+		"layer0": "item/button_right"
 	},
 	"elements": [
 		{

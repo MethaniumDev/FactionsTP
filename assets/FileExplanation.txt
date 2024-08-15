@@ -1,0 +1,11 @@
+/minecraft/textures/item/
+	- general textures 
+/minecraft/textures/map/
+	- skilltree textures 
+/minecraft/textures/gui/
+	- Vanilla GUIs
+/methanium/sounds/
+	- custom sounds
+/methanium/thextures/font/
+	- GUI overlays
+- weiterführen wenn neue ordner hinzugefügt werden
