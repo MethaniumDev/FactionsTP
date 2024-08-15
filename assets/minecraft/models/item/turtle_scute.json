@@ -74,11 +74,9 @@
 		
 		{"predicate": {"custom_model_data": 9998}, "model": "item/siklls/template"},
 		{"predicate": {"custom_model_data": 9999}, "model": "item/siklls/template_unlocked"},
-		{
-		"//comment": "Skill rtexures should have a modeldata above 10000 to destinguish from others",
-		"//comment": "They should be grouped in groups of 1000",
-		"predicate": {"custom_model_data":10000}, "model": "item/siklls/journey"
-		},
+		
+		{"predicate": {"custom_model_data":10000}, "model": "item/siklls/journey"},
+		
 		{"predicate": {"custom_model_data":10001}, "model": "item/siklls/journey_bought"},
 		
 		
