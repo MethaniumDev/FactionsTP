@@ -76,7 +76,6 @@
 		{"predicate": {"custom_model_data": 9999}, "model": "item/siklls/template_unlocked"},
 		
 		{"predicate": {"custom_model_data":10000}, "model": "item/siklls/journey"},
-		
 		{"predicate": {"custom_model_data":10001}, "model": "item/siklls/journey_unlocked"},
 		
 		
