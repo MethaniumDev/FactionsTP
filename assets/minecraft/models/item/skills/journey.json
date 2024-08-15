@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"layer0": "map/journey"
+		"layer0": "item/skills_journey"
 	},
 	"elements": [
 		{

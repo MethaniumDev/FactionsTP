@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"layer0": "map/mining_silkspawners_unlocked"
+		"layer0": "item/skills_mining_silkspawners_unlocked"
 	},
 	"elements": [
 		{

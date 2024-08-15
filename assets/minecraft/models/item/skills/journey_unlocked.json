@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"layer0": "map/journey_unlocked"
+		"layer0": "item/skills_journey_unlocked"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"layer0": "map/mining_miningspeed_6_unlocked"
+		"layer0": "item/skills_mining_miningspeed_6_unlocked"
 	},
 	"elements": [
 		{
