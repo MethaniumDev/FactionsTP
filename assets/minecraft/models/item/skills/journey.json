@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"layer0": "item/journey"
+		"layer0": "map/journey"
 	},
 	"elements": [
 		{
