@@ -70,19 +70,70 @@
 		{"predicate": {"custom_model_data":61}, "model": "item/buttons/page_down_2"},
 		{"predicate": {"custom_model_data":62}, "model": "item/buttons/page_up_3"},
 		{"predicate": {"custom_model_data":63}, "model": "item/buttons/page_down_3"},
+		
+		
+		{"predicate": {"custom_model_data": 9998}, "model": "item/siklls/template"},
+		{"predicate": {"custom_model_data": 9999}, "model": "item/siklls/template_unlocked"},
 		{
 		"//comment": "Skill rtexures should have a modeldata above 10000 to destinguish from others",
 		"//comment": "They should be grouped in groups of 1000",
-		"predicate": {"custom_model_data":10000}, "model": "item/siklls/journey_skill"
+		"predicate": {"custom_model_data":10000}, "model": "item/siklls/journey"
 		},
-		{"predicate": {"custom_model_data":10001}, "model": "item/siklls/journey_skill_bought"},
-		{"predicate": {"custom_model_data":11001}, "model": "item/siklls/mining/miningspeed"}
-		{"predicate": {"custom_model_data":11002}, "model": "item/siklls/mining/miningspeed_bought"}
-		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed"}
-		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed"}
-		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed"}
-		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed"}
-		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/silkspawners"}
+		{"predicate": {"custom_model_data":10001}, "model": "item/siklls/journey_bought"},
+		
+		
+		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed_1"},
+		{"predicate": {"custom_model_data":11001}, "model": "item/siklls/mining/miningspeed_1_bought"},
+		{"predicate": {"custom_model_data":11002}, "model": "item/siklls/mining/miningspeed_2"},
+		{"predicate": {"custom_model_data":11003}, "model": "item/siklls/mining/miningspeed_2_bought"},
+		{"predicate": {"custom_model_data":11004}, "model": "item/siklls/mining/miningspeed_3"},
+		{"predicate": {"custom_model_data":11005}, "model": "item/siklls/mining/miningspeed_3_bought"},
+		{"predicate": {"custom_model_data":11006}, "model": "item/siklls/mining/miningspeed_4"},
+		{"predicate": {"custom_model_data":11007}, "model": "item/siklls/mining/miningspeed_4_bought"},
+		{"predicate": {"custom_model_data":11008}, "model": "item/siklls/mining/miningspeed_5"},
+		{"predicate": {"custom_model_data":11009}, "model": "item/siklls/mining/miningspeed_5_bought"},
+		{"predicate": {"custom_model_data":11010}, "model": "item/siklls/mining/miningspeed_6"},
+		{"predicate": {"custom_model_data":11011}, "model": "item/siklls/mining/miningspeed_6_bought"},
+		{"predicate": {"custom_model_data":11012}, "model": "item/siklls/mining/silkspawners"},
+		{"predicate": {"custom_model_data":11013}, "model": "item/siklls/mining/silkspawners_bought"},
+
+
+		{"predicate": {"custom_model_data":11100}, "model": "item/siklls/horse/unlock"},
+		{"predicate": {"custom_model_data":11101}, "model": "item/siklls/horse/unlock_bought"},
+		
+		{"predicate": {"custom_model_data":11102}, "model": "item/siklls/horse/fall_resistance_upgrade_1"},
+		{"predicate": {"custom_model_data":11103}, "model": "item/siklls/horse/fall_resistance_upgrade_1_bought"},
+		{"predicate": {"custom_model_data":11104}, "model": "item/siklls/horse/fall_resistance_upgrade_2"},
+		{"predicate": {"custom_model_data":11105}, "model": "item/siklls/horse/fall_resistance_upgrade_2_bought"},
+		{"predicate": {"custom_model_data":11106}, "model": "item/siklls/horse/fall_resistance_upgrade_3"},
+		{"predicate": {"custom_model_data":11107}, "model": "item/siklls/horse/fall_resistance_upgrade_3_bought"},
+		{"predicate": {"custom_model_data":11108}, "model": "item/siklls/horse/health_upgrade_1"},
+		{"predicate": {"custom_model_data":11109}, "model": "item/siklls/horse/health_upgrade_1_bought"},
+		{"predicate": {"custom_model_data":11110}, "model": "item/siklls/horse/health_upgrade_2"},
+		{"predicate": {"custom_model_data":11111}, "model": "item/siklls/horse/health_upgrade_2_bought"},
+		{"predicate": {"custom_model_data":11112}, "model": "item/siklls/horse/health_upgrade_3"},
+		{"predicate": {"custom_model_data":11113}, "model": "item/siklls/horse/health_upgrade_3_bought"},
+		{"predicate": {"custom_model_data":11114}, "model": "item/siklls/horse/health_upgrade_4"},
+		{"predicate": {"custom_model_data":11115}, "model": "item/siklls/horse/health_upgrade_4_bought"},
+		{"predicate": {"custom_model_data":11116}, "model": "item/siklls/horse/health_upgrade_5"},
+		{"predicate": {"custom_model_data":11117}, "model": "item/siklls/horse/health_upgrade_5_bought"},
+		
+		{"predicate": {"custom_model_data":11118}, "model": "item/siklls/horse/speedupgrade"},
+		{"predicate": {"custom_model_data":11119}, "model": "item/siklls/horse/speedupgrade_bought"},
 	
+	
+		{"predicate": {"custom_model_data":11200}, "model": "item/siklls/backpack/unlock"},
+		{"predicate": {"custom_model_data":11201}, "model": "item/siklls/backpack/unlock_bought"},
+		
+		{"predicate": {"custom_model_data":11202}, "model": "item/siklls/backpack/size_upgrade_1"},
+		{"predicate": {"custom_model_data":11203}, "model": "item/siklls/backpack/size_upgrade_1_bought"},
+		{"predicate": {"custom_model_data":11204}, "model": "item/siklls/backpack/size_upgrade_2"},
+		{"predicate": {"custom_model_data":11205}, "model": "item/siklls/backpack/size_upgrade_2_bought"},
+		{"predicate": {"custom_model_data":11206}, "model": "item/siklls/backpack/size_upgrade_3"},
+		{"predicate": {"custom_model_data":11207}, "model": "item/siklls/backpack/size_upgrade_3_bought"},
+		{"predicate": {"custom_model_data":11208}, "model": "item/siklls/backpack/size_upgrade_4"},
+		{"predicate": {"custom_model_data":11209}, "model": "item/siklls/backpack/size_upgrade_4_bought"},
+		{"predicate": {"custom_model_data":11210}, "model": "item/siklls/backpack/size_upgrade_5"},
+		{"predicate": {"custom_model_data":11211}, "model": "item/siklls/backpack/size_upgrade_5_bought"},
 	]
 }
