@@ -134,6 +134,6 @@
 		{"predicate": {"custom_model_data":11208}, "model": "item/siklls/backpack/size_upgrade_4"},
 		{"predicate": {"custom_model_data":11209}, "model": "item/siklls/backpack/size_upgrade_4_bought"},
 		{"predicate": {"custom_model_data":11210}, "model": "item/siklls/backpack/size_upgrade_5"},
-		{"predicate": {"custom_model_data":11211}, "model": "item/siklls/backpack/size_upgrade_5_bought"},
+		{"predicate": {"custom_model_data":11211}, "model": "item/siklls/backpack/size_upgrade_5_bought"}
 	]
 }
