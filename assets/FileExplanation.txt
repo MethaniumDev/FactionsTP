@@ -1,0 +1,4 @@
+/minecraft/textures/item/
+	- general textures 
+/minecraft/textures/map/
+	- skilltree textures

@@ -64,12 +64,25 @@
 		{"predicate": {"custom_model_data":57}, "model": "item/buttons/b"},
 		
 		
-		{"predicate": {"custom_model_data":58}, "model": "item/buttons/page_up1"},
-		{"predicate": {"custom_model_data":59}, "model": "item/buttons/page_down1"},
-		{"predicate": {"custom_model_data":60}, "model": "item/buttons/page_up2"},
-		{"predicate": {"custom_model_data":61}, "model": "item/buttons/page_down2"},
-		{"predicate": {"custom_model_data":62}, "model": "item/buttons/page_up3"},
-		{"predicate": {"custom_model_data":63}, "model": "item/buttons/page_down3"}
+		{"predicate": {"custom_model_data":58}, "model": "item/buttons/page_up_1"},
+		{"predicate": {"custom_model_data":59}, "model": "item/buttons/page_down_1"},
+		{"predicate": {"custom_model_data":60}, "model": "item/buttons/page_up_2"},
+		{"predicate": {"custom_model_data":61}, "model": "item/buttons/page_down_2"},
+		{"predicate": {"custom_model_data":62}, "model": "item/buttons/page_up_3"},
+		{"predicate": {"custom_model_data":63}, "model": "item/buttons/page_down_3"},
+		{
+		"//comment": "Skill rtexures should have a modeldata above 10000 to destinguish from others",
+		"//comment": "They should be grouped in groups of 1000",
+		"predicate": {"custom_model_data":10000}, "model": "item/siklls/journey_skill"
+		},
+		{"predicate": {"custom_model_data":10001}, "model": "item/siklls/journey_skill_bought"},
+		{"predicate": {"custom_model_data":11001}, "model": "item/siklls/mining/miningspeed"}
+		{"predicate": {"custom_model_data":11002}, "model": "item/siklls/mining/miningspeed_bought"}
+		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed"}
+		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed"}
+		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed"}
+		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed"}
+		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/silkspawners"}
 	
 	]
 }
