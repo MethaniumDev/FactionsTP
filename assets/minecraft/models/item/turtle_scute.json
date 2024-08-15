@@ -77,7 +77,7 @@
 		
 		{"predicate": {"custom_model_data":10000}, "model": "item/siklls/journey"},
 		
-		{"predicate": {"custom_model_data":10001}, "model": "item/siklls/journey_bought"},
+		{"predicate": {"custom_model_data":10001}, "model": "item/siklls/journey_unlocked"},
 		
 		
 		{"predicate": {"custom_model_data":11000}, "model": "item/siklls/mining/miningspeed_1"},
