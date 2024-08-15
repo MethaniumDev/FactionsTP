@@ -16,6 +16,8 @@
 				"down": {"uv": [0, 0, 16, 1], "texture": "#layer0"}
 			}
 		}
-	"gui_light": "front",
-	"display": {}
+		"gui_light": "front",
+		"display": {}
+        }
+    ]
 }
