@@ -122,15 +122,15 @@
 		{"predicate": {"custom_model_data":11200}, "model": "item/skills/backpack/unlock"},
 		{"predicate": {"custom_model_data":11201}, "model": "item/skills/backpack/unlock_unlocked"},
 		
-		{"predicate": {"custom_model_data":11202}, "model": "item/skills/backpack/size_upgrade_1"},
-		{"predicate": {"custom_model_data":11203}, "model": "item/skills/backpack/size_upgrade_1_unlocked"},
-		{"predicate": {"custom_model_data":11204}, "model": "item/skills/backpack/size_upgrade_2"},
-		{"predicate": {"custom_model_data":11205}, "model": "item/skills/backpack/size_upgrade_2_unlocked"},
-		{"predicate": {"custom_model_data":11206}, "model": "item/skills/backpack/size_upgrade_3"},
-		{"predicate": {"custom_model_data":11207}, "model": "item/skills/backpack/size_upgrade_3_unlocked"},
-		{"predicate": {"custom_model_data":11208}, "model": "item/skills/backpack/size_upgrade_4"},
-		{"predicate": {"custom_model_data":11209}, "model": "item/skills/backpack/size_upgrade_4_unlocked"},
-		{"predicate": {"custom_model_data":11210}, "model": "item/skills/backpack/size_upgrade_5"},
-		{"predicate": {"custom_model_data":11211}, "model": "item/skills/backpack/size_upgrade_5_unlocked"}
+		{"predicate": {"custom_model_data":11202}, "model": "item/skills/backpack/sizeupgrade_1"},
+		{"predicate": {"custom_model_data":11203}, "model": "item/skills/backpack/sizeupgrade_1_unlocked"},
+		{"predicate": {"custom_model_data":11204}, "model": "item/skills/backpack/sizeupgrade_2"},
+		{"predicate": {"custom_model_data":11205}, "model": "item/skills/backpack/sizeupgrade_2_unlocked"},
+		{"predicate": {"custom_model_data":11206}, "model": "item/skills/backpack/sizeupgrade_3"},
+		{"predicate": {"custom_model_data":11207}, "model": "item/skills/backpack/sizeupgrade_3_unlocked"},
+		{"predicate": {"custom_model_data":11208}, "model": "item/skills/backpack/sizeupgrade_4"},
+		{"predicate": {"custom_model_data":11209}, "model": "item/skills/backpack/sizeupgrade_4_unlocked"},
+		{"predicate": {"custom_model_data":11210}, "model": "item/skills/backpack/sizeupgrade_5"},
+		{"predicate": {"custom_model_data":11211}, "model": "item/skills/backpack/sizeupgrade_5_unlocked"}
 	]
 }
