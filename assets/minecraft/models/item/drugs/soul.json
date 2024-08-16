@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/bosses_soul"
+		"layer0": "item/drugs_soul"
 	}
 }
