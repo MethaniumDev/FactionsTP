@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/bosses_warden_body",
-		"particle": "block/bosses_warden_body"
+		"0": "item/bosses_warden_body",
+		"particle": "item/bosses_warden_body"
 	},
 	"elements": [
 		{
