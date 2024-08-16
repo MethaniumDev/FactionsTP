@@ -142,7 +142,6 @@
 		{"predicate": {"custom_model_data":20002}, "model": "item/bosses/warden/left_arm"},
 		{"predicate": {"custom_model_data":20003}, "model": "item/bosses/warden/right_arm"},
 		{"predicate": {"custom_model_data":20004}, "model": "item/bosses/warden/left_leg"},
-		{"predicate": {"custom_model_data":20005}, "model": "item/bosses/warden/right_leg"},
-		{"predicate": {"custom_model_data":20006}, "model": "item/bosses/warden/combined"}
+		{"predicate": {"custom_model_data":20005}, "model": "item/bosses/warden/right_leg"}
 	]
 }
