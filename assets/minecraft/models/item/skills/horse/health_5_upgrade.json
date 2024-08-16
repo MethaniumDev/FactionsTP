@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"layer0": "item/skills_horse_health_5_upgrade_unlocked"
+		"layer0": "item/skills_horse_health_5_upgrade"
 	},
 	"elements": [
 		{

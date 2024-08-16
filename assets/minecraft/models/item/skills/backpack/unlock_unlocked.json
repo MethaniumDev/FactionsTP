@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"layer0": "item/skills_horse_skills_backpack_unlock_unlocked"
+		"layer0": "item/skills_backpack_unlock_unlocked"
 	},
 	"elements": [
 		{
