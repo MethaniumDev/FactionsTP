@@ -131,6 +131,10 @@
 		{"predicate": {"custom_model_data":11208}, "model": "item/skills/backpack/size_upgrade_4"},
 		{"predicate": {"custom_model_data":11209}, "model": "item/skills/backpack/size_upgrade_4_unlocked"},
 		{"predicate": {"custom_model_data":11210}, "model": "item/skills/backpack/size_upgrade_5"},
-		{"predicate": {"custom_model_data":11211}, "model": "item/skills/backpack/size_upgrade_5_unlocked"}
+		{"predicate": {"custom_model_data":11211}, "model": "item/skills/backpack/size_upgrade_5_unlocked"},
+	
+	
+		{"predicate": {"custom_model_data":11300}, "model": "item/skills/util/mobile_craft"},
+		{"predicate": {"custom_model_data":11301}, "model": "item/skills/util/mobile_craft_unlocked"},
 	]
 }
