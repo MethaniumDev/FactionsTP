@@ -1,0 +1,54 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/bosses_warden_right_leg",
+		"particle": "block/bosses_warden_right_leg"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 30.5, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"color": 5,
+			"faces": {
+				"north": {"uv": [0, 0, 2, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 2, 16], "texture": "#missing"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 2, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [7, 0, 1],
+			"to": [9, 2, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 5]},
+			"faces": {
+				"north": {"uv": [4, 4, 6, 6], "texture": "#missing"},
+				"east": {"uv": [0, 0, 6, 2], "texture": "#missing"},
+				"south": {"uv": [6, 0, 8, 2], "texture": "#missing"},
+				"west": {"uv": [0, 2, 6, 4], "texture": "#missing"},
+				"up": {"uv": [2, 10, 0, 4], "texture": "#missing"},
+				"down": {"uv": [4, 4, 2, 10], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [3, 0, 6],
+			"to": [9, 2, 8],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [5, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 2], "texture": "#0"},
+				"east": {"uv": [6, 0, 8, 2], "texture": "#0"},
+				"south": {"uv": [0, 2, 6, 4], "texture": "#0"},
+				"west": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"up": {"uv": [6, 6, 0, 4], "texture": "#0"},
+				"down": {"uv": [6, 6, 0, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -35.5, 0]
+		}
+	}
+}
