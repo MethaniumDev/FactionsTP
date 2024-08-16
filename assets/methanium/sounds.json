@@ -1,0 +1,9 @@
+{
+    "wardenswordclashsound": {
+        "category": "player",
+        "sounds": [
+            "wardenswordclashsound"
+        ],
+        "subtitle": "subtitles.custom.wardenswordclashsound"
+    }
+}
