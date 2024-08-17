@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/bosses_warden_right_leg",
-		"particle": "block/bosses_warden_right_leg"
+		"0": "item/bosses_warden_right_leg",
+		"particle": "item/bosses_warden_right_leg"
 	},
 	"elements": [
 		{

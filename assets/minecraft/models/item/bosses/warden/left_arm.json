@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/bosses_warden_left_arm_ol",
-		"particle": "block/bosses_warden_left_arm_ol"
+		"0": "item/bosses_warden_left_arm_ol",
+		"particle": "item/bosses_warden_left_arm_ol"
 	},
 	"elements": [
 		{
