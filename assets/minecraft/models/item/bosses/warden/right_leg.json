@@ -3,8 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "item/bosses_warden_right_arm",
-		"2": "item/bosses_warden_right_arm_ol",
-		"particle": "block/bosses_warden_right_leg"
+		"2": "item/bosses_warden_right_arm_ol"
 	},
 	"elements": [
 		{
@@ -35,7 +34,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -35.5, 0]
+			"translation": [0, -42, 0],
+			"scale": [2, 2, 2]
 		}
 	}
 }
