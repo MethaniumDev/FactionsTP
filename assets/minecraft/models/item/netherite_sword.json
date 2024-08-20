@@ -5,6 +5,6 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data":11}, "model":"item/bosses/sword_warden"},
-		{"predicate": {"custom_model_data":12}, "model":"item/bosses/death/sword_scythe"}
+		{"predicate": {"custom_model_data":13}, "model":"item/bosses/death/sword_scythe"}
 	]
 }
