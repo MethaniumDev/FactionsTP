@@ -4,7 +4,7 @@
 		"layer0": "item/netherite_sword"
 	},
 	"overrides": [
-		{"predicate": {"custom_model_data":11}, "model":"item/bosses/wardensword"},
-		{"predicate": {"custom_model_data":12}, "model":"item/bosses/death/scythe_of_death"}
+		{"predicate": {"custom_model_data":11}, "model":"item/bosses/sword_warden"},
+		{"predicate": {"custom_model_data":12}, "model":"item/bosses/death/sword_scythe"}
 	]
 }
