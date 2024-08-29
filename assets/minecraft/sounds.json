@@ -1,3 +1,4 @@
 {
-    "warden_sword_clash": {"category": "player", "sounds": [ "warden_sword_clash" ], "subtitle": "subtitles.custom.warden_sword_clash"}
+    "warden_sword_clash": {"category": "player", "sounds": [ "warden_sword_clash" ], "subtitle": "subtitles.custom.warden_sword_clash"},
+    "molten_warden_boss_theme": {"category": "player", "sounds": [ "molten_warden_boss_theme" ], "subtitle": "subtitles.custom.molten_warden_boss_theme"}
 }
