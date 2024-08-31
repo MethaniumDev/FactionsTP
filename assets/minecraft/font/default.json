@@ -1,4 +1,5 @@
 {"providers":[
+	{"file":"methanium:font/nsp.png","chars":["\uE18D"],"height":-200,"ascent":-2000,"type":"bitmap"},
 	{"file":"methanium:font/nsp.png","chars":["\uE18E"],"height":-3,"ascent":-2000,"type":"bitmap"},
 	{"file":"methanium:font/nsp.png","chars":["\uE18F"],"height":-256,"ascent":-2000,"type":"bitmap"},
 	{"file":"methanium:font/nsp.png","chars":["\uE190"],"height":-50,"ascent":-2000,"type":"bitmap"},
@@ -8,5 +9,6 @@
 	
 	{"file":"methanium:font/shop_selection.png","chars":["\uE194"],"height":256,"ascent":47,"type":"bitmap"},
 	{"file":"methanium:font/shop_sell.png","chars":["\uE195"],"height":256,"ascent":47,"type":"bitmap"},
-	{"file":"methanium:font/shop_generic.png","chars":["\uE196"],"height":256,"ascent":47,"type":"bitmap"}
+	{"file":"methanium:font/shop_generic.png","chars":["\uE196"],"height":256,"ascent":47,"type":"bitmap"},
+	{"file":"methanium:font/shop_buy_one.png","chars":["\uE197"],"height":256,"ascent":47,"type":"bitmap"}
 ]}
