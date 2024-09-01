@@ -39,6 +39,12 @@
 		{"predicate": {"custom_model_data":62}, "model": "item/buttons/page_up_3"},
 		{"predicate": {"custom_model_data":63}, "model": "item/buttons/page_down_3"},
 		
+		{"predicate": {"custom_model_data":64}, "model": "item/buttons/page_prev_1"},
+		{"predicate": {"custom_model_data":65}, "model": "item/buttons/page_next_1"},
+		{"predicate": {"custom_model_data":66}, "model": "item/buttons/page_prev_2"},
+		{"predicate": {"custom_model_data":67}, "model": "item/buttons/page_next_2"},
+		{"predicate": {"custom_model_data":68}, "model": "item/buttons/page_prev_3"},
+		{"predicate": {"custom_model_data":69}, "model": "item/buttons/page_next_3"},
 		
 		
 		{"predicate": {"custom_model_data":110}, "model": "item/connectors/down"},

@@ -1,0 +1,22 @@
+{
+	"textures": {
+		"layer0": "item/button_page_next_1"
+	},
+	"elements": [
+		{
+			"from": [-1, -2, 7.5],
+			"to": [17, 16, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#layer0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#layer0"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#layer0"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#layer0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {}
+	
+}
