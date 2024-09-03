@@ -37,7 +37,8 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"rotation": [44, 180, 0]
+			"rotation": [44, 180, 0],
+			"translation": [0, 0, 2]
 		}
 	}
 }

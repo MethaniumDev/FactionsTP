@@ -161,6 +161,8 @@
 	
 		{"predicate": {"custom_model_data":11300}, "model": "item/skills/util/mobile_craft"},
 		{"predicate": {"custom_model_data":11301}, "model": "item/skills/util/mobile_craft_unlocked"},
+		{"predicate": {"custom_model_data":11302}, "model": "item/skills/util/mobile_enderchest"},
+		{"predicate": {"custom_model_data":11303}, "model": "item/skills/util/mobile_enderchest_unlocked"},
 		
 		{"predicate": {"custom_model_data":20000}, "model": "item/bosses/warden/head"},
 		{"predicate": {"custom_model_data":20001}, "model": "item/bosses/warden/body"},
