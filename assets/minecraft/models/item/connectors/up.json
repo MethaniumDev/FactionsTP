@@ -1,13 +1,14 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "item/connector",
 		"particle": "item/connector"
 	},
 	"elements": [
 		{
-			"from": [6, 8, -7],
-			"to": [10, 26, -7],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, -3]},
+			"from": [6, 8, 8],
+			"to": [10, 26, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 12]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
 				"east": {"uv": [0, 0, 1, 16], "texture": "#1"},
@@ -18,11 +19,11 @@
 			}
 		}
 	],
-"gui_light": "front",
+	"gui_light": "front",
 	"display": {
 		"gui": {
 			"rotation": [0, 180, 0],
-			"translation": [0, 0, -80]
+			"translation": [0, 0, -2]
 		}
 	}
 }

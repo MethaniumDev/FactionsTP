@@ -3,21 +3,21 @@
 		"1": "block/crafting_table_front",
 		"2": "block/crafting_table_side",
 		"3": "block/crafting_table_top",
-		"layer0": "item/skills_util_mobile_craft",
+		"0": "item/skills_util_mobile_craft",
 		"particle": "block/crafting_table_front"
 	},
 	"elements": [
 		{
 			"from": [-1, -3, 6.5],
-			"to": [17, 15, 7.5],
+			"to": [17, 15, 8],
 			"rotation": {"angle": 45, "axis": "x", "origin": [8, -2, 7]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
-				"east": {"uv": [0, 0, 1, 16], "texture": "#layer0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
-				"west": {"uv": [0, 0, 1, 16], "texture": "#layer0"},
-				"up": {"uv": [0, 0, 16, 1], "texture": "#layer0"},
-				"down": {"uv": [0, 0, 16, 1], "texture": "#layer0"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#0"}
 			}
 		},
 		{
