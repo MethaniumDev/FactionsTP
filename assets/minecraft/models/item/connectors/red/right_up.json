@@ -1,10 +1,23 @@
 {
 	"textures": {
 		"0": "item/connector_blocker",
-		"1": "item/red_connector",
-		"particle": "item/red_connector"
+		"1": "item/connector_gray",
+		"particle": "item/connector_gray"
 	},
 	"elements": [
+		{
+			"from": [-10, 8, 0],
+			"to": [26, 26, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 8, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 14, 16, 16], "texture": "#0"}
+			}
+		},
 		{
 			"from": [6, -10, -5],
 			"to": [10, 8, -5],

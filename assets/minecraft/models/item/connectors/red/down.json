@@ -1,8 +1,8 @@
 {
 	"textures": {
 		"0": "item/connector_blocker",
-		"1": "item/red_connector",
-		"particle": "item/red_connector"
+		"1": "item/connector_gray",
+		"particle": "item/connector_gray"
 	},
 	"elements": [
 		{
