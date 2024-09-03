@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"0": "item/connector_blocker",
 		"1": "item/connector_gray",
 		"particle": "item/connector_gray"
 	},
