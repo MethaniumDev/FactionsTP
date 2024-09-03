@@ -33,5 +33,9 @@
 		}
 	],
 	"gui_light": "front",
-	"display": {}
+	"display": {
+		"gui": {
+			"translation": [0, 0, 80]
+		}
+	}
 }

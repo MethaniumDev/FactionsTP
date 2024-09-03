@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "item/connector_gray",
 		"particle": "item/connector_gray"
@@ -18,9 +19,11 @@
 			}
 		}
 	],
-"gui_light": "front",
+	"gui_light": "front",
 	"display": {
 		"gui": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, -80]
 		}
-	}}
+	}
+}
