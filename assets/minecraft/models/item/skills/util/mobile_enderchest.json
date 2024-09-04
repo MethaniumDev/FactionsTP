@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/skills_util_mobile_craft",
-		"1": "entity/chest/ender",
-		"particle": "entity/chest/ender"
+		"1": "item/ender",
+		"particle": "item/ender"
 	},
 	"elements": [
 		{

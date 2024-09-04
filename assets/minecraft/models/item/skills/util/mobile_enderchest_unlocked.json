@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/skills_util_mobile_craft_unlocked",
-		"4": "entity/chest/ender"
+		"4": "item/ender"
 	},
 	"elements": [
 		{
