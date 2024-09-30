@@ -19,5 +19,9 @@
 	{"file":"methanium:font/icon_warps.png","chars":["\uE204"],"height":256,"ascent":47,"type":"bitmap"},
 	{"file":"methanium:font/icon_bosses.png","chars":["\uE205"],"height":256,"ascent":47,"type":"bitmap"},
 	{"file":"methanium:font/icon_economy.png","chars":["\uE206"],"height":256,"ascent":47,"type":"bitmap"},
-	{"file":"methanium:font/icon_skill.png","chars":["\uE207"],"height":256,"ascent":47,"type":"bitmap"}
+	{"file":"methanium:font/icon_skill.png","chars":["\uE207"],"height":256,"ascent":47,"type":"bitmap"},
+	
+	
+	{"file":"methanium:font/quiver_totem.png","chars":["\uE250"],"height":256,"ascent":47,"type":"bitmap"},
+	{"file":"methanium:font/quiver_arrows.png","chars":["\uE251"],"height":256,"ascent":47,"type":"bitmap"}
 ]}
