@@ -1,11 +1,13 @@
 {
+	"credit": "Made with Blockbench",
 	"textures": {
 		"layer0": "item/selection_skills"
 	},
 	"elements": [
 		{
-			"from": [1, -2, 7.5],
-			"to": [17, 14, 8.5],
+			"from": [0, 0, 7.5],
+			"to": [16, 16, 8.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 2, 0]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#layer0"},
 				"east": {"uv": [0, 0, 1, 16], "texture": "#layer0"},
