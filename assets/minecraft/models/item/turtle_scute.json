@@ -11,6 +11,26 @@
 		
 		{"predicate": {"custom_model_data":9}, "model": "item/overlayblocker"},
 		
+		
+		{"predicate": {"custom_model_data":20}, "model": "item/music/note"},
+		{"predicate": {"custom_model_data":21}, "model": "item/music/piano"},
+		{"predicate": {"custom_model_data":22}, "model": "item/music/bassGuitar"},
+		{"predicate": {"custom_model_data":23}, "model": "item/music/bassDrum"},
+		{"predicate": {"custom_model_data":24}, "model": "item/music/snareDrum"},
+		{"predicate": {"custom_model_data":25}, "model": "item/music/sticks"},
+		{"predicate": {"custom_model_data":26}, "model": "item/music/bell"},
+		{"predicate": {"custom_model_data":27}, "model": "item/music/flute"},
+		{"predicate": {"custom_model_data":28}, "model": "item/music/chimes"},
+		{"predicate": {"custom_model_data":29}, "model": "item/music/guitar"},
+		{"predicate": {"custom_model_data":30}, "model": "item/music/xylophone"},
+		{"predicate": {"custom_model_data":31}, "model": "item/music/ironXylophone"},
+		{"predicate": {"custom_model_data":32}, "model": "item/music/cowBell"},
+		{"predicate": {"custom_model_data":33}, "model": "item/music/digeridoo"},
+		{"predicate": {"custom_model_data":34}, "model": "item/music/bit"},
+		{"predicate": {"custom_model_data":35}, "model": "item/music/banjo"},
+		{"predicate": {"custom_model_data":36}, "model": "item/music/ping"},
+		{"predicate": {"custom_model_data":37}, "model": "item/music/noteOFF"},
+		
 		{"predicate": {"custom_model_data":40}, "model": "item/level/level0"},
 		{"predicate": {"custom_model_data":41}, "model": "item/level/level1"},
 		{"predicate": {"custom_model_data":42}, "model": "item/level/level2"},
@@ -174,6 +194,52 @@
 		{"predicate": {"custom_model_data":20002}, "model": "item/bosses/warden/left_arm"},
 		{"predicate": {"custom_model_data":20003}, "model": "item/bosses/warden/right_arm"},
 		{"predicate": {"custom_model_data":20004}, "model": "item/bosses/warden/left_leg"},
-		{"predicate": {"custom_model_data":20005}, "model": "item/bosses/warden/right_leg"}
+		{"predicate": {"custom_model_data":20005}, "model": "item/bosses/warden/right_leg"},
+				
+		
+		
+		{"predicate": {"custom_model_data":30000}, "model": "item/settings/abilities/PressShift"},
+		{"predicate": {"custom_model_data":30001}, "model": "item/settings/abilities/DontPressShift"},
+		
+		{"predicate": {"custom_model_data":30002}, "model": "item/settings/abilities/PressFOnce"},
+		{"predicate": {"custom_model_data":30003}, "model": "item/settings/abilities/PressFTwice"},
+		
+		{"predicate": {"custom_model_data":30004}, "model": "item/settings/abilities/StayInAbilityBar"},
+		{"predicate": {"custom_model_data":30005}, "model": "item/settings/abilities/ExitAbilityBar"},
+		
+		{"predicate": {"custom_model_data":30006}, "model": "item/settings/abilities/HotbarSlotUsage"},
+		{"predicate": {"custom_model_data":30007}, "model": "item/settings/abilities/HotbarSlotCantUse"},
+		
+		{"predicate": {"custom_model_data":30008}, "model": "item/settings/abilities/NinthItemNone"},
+		{"predicate": {"custom_model_data":30009}, "model": "item/settings/abilities/NinthItemSettings"},
+		{"predicate": {"custom_model_data":30010}, "model": "item/settings/abilities/NinthItemExit"},
+
+
+	
+		{"predicate": {"custom_model_data":30011}, "model": "item/settings/abilities/NinthItemSettings"},
+		{"predicate": {"custom_model_data":30012}, "model": "item/settings/abilities/NinthItemExit"},
+		
+		{"predicate": {"custom_model_data":40000}, "model": "item/abilities/airlock"},
+		{"predicate": {"custom_model_data":40001}, "model": "item/abilities/bloodthirst"},
+		{"predicate": {"custom_model_data":40002}, "model": "item/abilities/cobwebthrow"},
+		{"predicate": {"custom_model_data":40003}, "model": "item/abilities/dash"},
+		{"predicate": {"custom_model_data":40004}, "model": "item/abilities/deepfreeze"},
+		{"predicate": {"custom_model_data":40005}, "model": "item/abilities/dogs"},
+		{"predicate": {"custom_model_data":40006}, "model": "item/abilities/duel"},
+		{"predicate": {"custom_model_data":40007}, "model": "item/abilities/earthquake"},
+		{"predicate": {"custom_model_data":40008}, "model": "item/abilities/fireball"},
+		{"predicate": {"custom_model_data":40009}, "model": "item/abilities/firebreath"},
+		{"predicate": {"custom_model_data":40010}, "model": "item/abilities/forcefield"},
+		{"predicate": {"custom_model_data":40011}, "model": "item/abilities/ghost"},
+		{"predicate": {"custom_model_data":40012}, "model": "item/abilities/healcloud"},
+		{"predicate": {"custom_model_data":40013}, "model": "item/abilities/healthmarker"},
+		{"predicate": {"custom_model_data":40014}, "model": "item/abilities/instalock"},
+		{"predicate": {"custom_model_data":40015}, "model": "item/abilities/kamehameha"},
+		{"predicate": {"custom_model_data":40016}, "model": "item/abilities/levitationmagic"},
+		{"predicate": {"custom_model_data":40017}, "model": "item/abilities/poisoncloud"},
+		{"predicate": {"custom_model_data":40018}, "model": "item/abilities/smokebomb"},
+		{"predicate": {"custom_model_data":40019}, "model": "item/abilities/theforce"},
+		{"predicate": {"custom_model_data":40020}, "model": "item/abilities/updraft"},
+		{"predicate": {"custom_model_data":40021}, "model": "item/abilities/warp"}
 	]
 }
